@@ -1,4 +1,11 @@
-hamonikr-live-session (1.0.0) ulyana; urgency=medium
+hamonikr-live-session (1.0.1) unstable; urgency=medium
+
+  * Change command name as bump-virtualbox-resolution
+   - If chang name, ubiquity simple-plugin step error
+
+ -- HamoniKR <pkg@hamonikr.org> Sat, 10 Aug 2024 21:35:33 +0900
+
+hamonikr-live-session (1.0.0) unstable; urgency=medium
 
   * Initial release
    - Merge from mint-live-session 1.0.3
