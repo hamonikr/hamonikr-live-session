@@ -1,0 +1,7 @@
+hamonikr-live-session (1.0.0) ulyana; urgency=medium
+
+  * Initial release
+   - Merge from mint-live-session 1.0.3
+
+ -- HamoniKR <pkg@hamonikr.org> Sat, 10 Aug 2024 20:09:50 +0900
+

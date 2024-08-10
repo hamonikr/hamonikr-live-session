@@ -1,0 +1,13 @@
+Source: hamonikr-live-session
+Section: admin
+Priority: optional
+Maintainer: Kevin Kim <chaeya@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: hamonikr-live-session
+Architecture: all
+Replaces: mint-live-session
+Conflicts: mint-live-session
+Description: A collection of files used in the live session
+ Live session files.
